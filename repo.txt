@@ -1,2 +1,0 @@
-git repo name is philips
-adding amending commit
